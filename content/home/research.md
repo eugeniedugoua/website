@@ -17,7 +17,7 @@ weight = 30
 
 # Work in Progress
 - **Green Innovation in Production Networks: Empirical Evidence from the Auto Industry.**<br>
-*with [Marion Dumas](http://tuvalu.santafe.edu/~marion/) (Grantham Institute)*.
+*with [Marion Dumas](http://tuvalu.santafe.edu/~marion/) (Grantham Institute)*. 
 
 - **Induced Innovation, Inventors, and the Energy Transition.**<br>
 *with [Todd Gerarden](https://toddgerarden.com/) (Cornell University)*.
@@ -42,6 +42,7 @@ Can international environmental agreements induce innovation on green technologi
 
 - **Green Product Innovation in Industrial Networks: A Theoretical Model.** <br>
 *with [Marion Dumas](http://tuvalu.santafe.edu/~marion/) (Grantham Institute)*.<br>
+*R&R Journal of Environmental Economics and Management*<br>
 [Pdf here](papers/Dugoua.Dumas_Green_Innovation_Production_Network.pdf)
 <details>
 <summary> Abstract
@@ -55,6 +56,7 @@ Previous studies have typically modeled green technological change as innovation
 
 - **Learning from Unincentivized and Incentivized Communication: A Randomized Controlled Trial in India.**<br>
 *with [Yonas Alem](http://www.yonasalem.net/) (University of Gothenburg)*.<br>
+*Conditionally Accepted at the Journal of Economic Development and Cultural Change*<br>
 [Pdf here](papers/Alem.Dugoua_Solar_Lanterns.pdf)
 <details>
 <summary> Abstract
